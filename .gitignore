@@ -1,2 +1,39 @@
 .idea/
+/starter_code/.idea/
 /starter_code/target/
+
+/starter_code/HELP.md
+/starter_code/target/
+/starter_code/!.mvn/wrapper/maven-wrapper.jar
+/starter_code/!**/src/main/**/target/
+/starter_code/!**/src/test/**/target/
+/starter_code/
+/starter_code/### STS ###
+/starter_code/.apt_generated
+/starter_code/.classpath
+/starter_code/.factorypath
+/starter_code/.project
+/starter_code/.settings
+/starter_code/.springBeans
+/starter_code/.sts4-cache
+/starter_code/
+/starter_code/### IntelliJ IDEA ###
+/starter_code/.idea
+/starter_code/*.iws
+/starter_code/*.iml
+/starter_code/*.ipr
+/starter_code/
+/starter_code/### NetBeans ###
+/starter_code/nbproject/private/
+/starter_code/nbbuild/
+/starter_code/dist/
+/starter_code/nbdist/
+/starter_code/.nb-gradle/
+/starter_code/build/
+/starter_code/!**/src/main/**/build/
+/starter_code/!**/src/test/**/build/
+/starter_code/
+/starter_code/### VS Code ###
+/starter_code/.vscode/
+/starter_code/
+/starter_code/log/
